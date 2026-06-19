@@ -8,7 +8,7 @@ order: 1
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
   <img src="/assets/img/profile.jpg" alt="Your Name" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid var(--sidebar-bg);">
   <div>
-    <h2 style="margin: 0 0 10px 0;">Hi, I'm [Your Name]</h2>
+    <h2 style="margin: 0 0 10px 0;">Hi, I'm Sandesh,</h2>
     <p style="font-size: 1.1em; color: var(--text-muted-color); margin: 0;">
       Scientist, Developer, and Science Communicator exploring the intersection of demographic history, simulation, and data science.
     </p>
